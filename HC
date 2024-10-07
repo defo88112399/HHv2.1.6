@@ -1437,7 +1437,7 @@ UITextSizeConstraint_41.Parent = Ninjutsu
 UITextSizeConstraint_41.MaxTextSize = 14
 
 UIAspectRatioConstraint.Parent = HunterHubv2
-UIAspectRatioConstraint.AspectRatio = 0.870
+UIAspectRatioConstraint.AspectRatio = 0.600
 
 -- Scripts:
 
