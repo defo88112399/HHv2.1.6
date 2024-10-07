@@ -87,7 +87,6 @@ local Reputation = Instance.new("TextLabel")
 local UITextSizeConstraint_40 = Instance.new("UITextSizeConstraint")
 local Ninjutsu = Instance.new("TextLabel")
 local UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint")
-UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
 
 --Properties:
 
@@ -1436,9 +1435,6 @@ Ninjutsu.TextXAlignment = Enum.TextXAlignment.Right
 UITextSizeConstraint_41.Parent = Ninjutsu
 UITextSizeConstraint_41.MaxTextSize = 14
 
-UIAspectRatioConstraint.Parent = HunterHubv2
-UIAspectRatioConstraint.AspectRatio = 0.870
-
 -- Scripts:
 
 local Players = game:GetService("Players")
@@ -1519,6 +1515,7 @@ local allowedUserIds = {
     7313361615,
     7429544958,
     11925856,
+    1032929421,
     1926195282
 }
 
