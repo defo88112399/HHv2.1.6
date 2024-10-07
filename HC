@@ -101,7 +101,7 @@ HunterHubv2.BackgroundTransparency = 0.400
 HunterHubv2.BorderColor3 = Color3.fromRGB(116, 116, 116)
 HunterHubv2.BorderSizePixel = 2
 HunterHubv2.Position = UDim2.new(0.543610573, 0, 0.225239635, 0)
-HunterHubv2.Size = UDim2.new(0.326572001, 0, 0.688498378, 0)
+HunterHubv2.Size = UDim2.new(0.245000005, 0, 0.664667606, 0)
 HunterHubv2.Draggable = true
 HunterHubv2.Active = true
 
@@ -1437,7 +1437,7 @@ UITextSizeConstraint_41.Parent = Ninjutsu
 UITextSizeConstraint_41.MaxTextSize = 14
 
 UIAspectRatioConstraint.Parent = HunterHubv2
-UIAspectRatioConstraint.AspectRatio = 0.600
+UIAspectRatioConstraint.AspectRatio = 0.870
 
 -- Scripts:
 
