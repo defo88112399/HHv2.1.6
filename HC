@@ -87,6 +87,7 @@ local Reputation = Instance.new("TextLabel")
 local UITextSizeConstraint_40 = Instance.new("UITextSizeConstraint")
 local Ninjutsu = Instance.new("TextLabel")
 local UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint")
+UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
 
 --Properties:
 
@@ -1434,6 +1435,9 @@ Ninjutsu.TextXAlignment = Enum.TextXAlignment.Right
 
 UITextSizeConstraint_41.Parent = Ninjutsu
 UITextSizeConstraint_41.MaxTextSize = 14
+
+UIAspectRatioConstraint.Parent = HunterHubv2
+UIAspectRatioConstraint.AspectRatio = 0.870
 
 -- Scripts:
 
